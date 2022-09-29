@@ -17,6 +17,9 @@ OpenLakelet自己将基于POE的技术，开发出基于POE的CAN转以太网、
 
 对于有需求的用户，可以和OpenLakelet进行沟通，OpenLakelet将尽可能提供可行的方案。
 
+## OpenLakelet合作
+OpenLakelet承接各种自动化相关的嵌入式硬件、软件开发，基于Vue3的UI界面开发，Linux相关软件开发，以及其他相关开发工作。
+
 ## OpenLakelet联系方式
 * 官网： www.openlakelet.com
 * 作者： 贺义方(Heyifang)
